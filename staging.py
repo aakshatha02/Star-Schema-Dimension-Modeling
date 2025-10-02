@@ -5,7 +5,7 @@ import psycopg2
 conn = psycopg2.connect(
     dbname="retaildb",
     user="akshatha",
-    password="1Password*",
+    password="password",
     host="localhost",
     port="5433"
 )
